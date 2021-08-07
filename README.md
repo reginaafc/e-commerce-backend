@@ -15,7 +15,7 @@ You will be presented with an initial node command-line which contains questions
 
 ## Installation 💻
 <br>
-Once you are in my gitgub repository for this project, <https://github.com/reginaafc/e-commerce-backend>: 
+Once you are in my gitgub repository for this project, <https://github.com/reginaafc/e-commerce-backend> : 
 <br>
 <br>
 1.- First you need to get the HTTPS or GitHub CLI from the green button in the top right corner that says "Code". 🟢
